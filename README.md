@@ -6,17 +6,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-  <img width=49% src="https://github-readme-stats.vercel.app/api?username=sevencoder3008&show_icons=true&theme=radical" height="200">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevencoder3008&theme=radical&layout=compact" height="200">
+  <img width=49% src="https://github-readme-stats.vercel.app/api?username=sevencoder03&show_icons=true&theme=radical" height="200">
+  <img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevencoder03&theme=radical&layout=compact" height="200">
  </div>
  
  ### ⚡ Recent GitHub Activity
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
-<a href="https://github.com/sevencoder3008">
+<a href="https://github.com/sevencoder03">
     <img alt="Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=sevencoder3008&custom_title=Seven%20Contribution%20Graph&color=66fff5&theme=react-dark&line=ff4d94"></a> 
+        src="https://activity-graph.herokuapp.com/graph?username=sevencoder03&custom_title=Seven%20Contribution%20Graph&color=66fff5&theme=react-dark&line=ff4d94"></a> 
 <br/>
 
 ### 🌐 Social
