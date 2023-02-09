@@ -12,12 +12,12 @@
  
  ### ⚡ Recent GitHub Activity
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
+<br />
 <a href="https://github.com/sevencoder03">
-    <img alt="Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph?username=sevencoder03&custom_title=Seven%20Contribution%20Graph&color=66fff5&theme=react-dark&line=ff4d94"></a> 
-<br/>
+    <img alt="NPX Activity Graph"
+        src="https://github-readme-activity-graph.cyclic.app/graph?username=sevencoder03&custom_title=Seven%20Contribution%20Graph&theme=ff4d4" /></a>
+<br />
+<br />
 
 ### 🌐 Social
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
