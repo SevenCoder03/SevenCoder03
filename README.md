@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div>
-  <img width=50% src="https://github-readme-stats.vercel.app/api?username=sevencoder03&show_icons=true&theme=radical" height="200">
+  <img width=49% src="https://github-readme-stats.vercel.app/api?username=sevencoder03&show_icons=true&theme=radical" height="200">
   <img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevencoder03&theme=radical&layout=compact" height="200">
  </div>
  
