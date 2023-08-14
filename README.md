@@ -15,7 +15,7 @@
 <br />
 <a href="https://github.com/sevencoder03">
     <img alt="NPX Activity Graph"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=sevencoder03&custom_title=Seven%20Contribution%20Graph&theme=ff4d4" /></a>
+        src="https://github-readme-activity-graph.vercel.app/graph?username=sevencoder03&custom_title=Seven%20Contribution%20Graph&theme=react-dark" /></a>
 <br />
 <br />
 
