@@ -6,8 +6,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img width=70% src="https://github-readme-stats.vercel.app/api?username=sevencoder03&show_icons=true&theme=radical" height="300">
-  <img width=70% src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevencoder03&theme=radical&layout=compact" height="300">
+  <img width=70% src="https://github-readme-stats-sigma-five.vercel.app/api?username=sevencoder03&show_icons=true&theme=radical" height="300">
+  <img width=70% src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sevencoder03&theme=radical&layout=compact" height="300">
  </div>
  
  ### ⚡ Recent GitHub Activity
@@ -34,4 +34,4 @@
      <a href="https://www.twitter.com/sevencoder03"><img
         src="https://img.shields.io/badge/twitter-%F58529.svg?style=plastic&logo=twitter&logoColor=white"
         alt="Twitter" /></a>
-</span>       
+</span>  
