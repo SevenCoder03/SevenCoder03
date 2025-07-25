@@ -1,6 +1,6 @@
 ### Hello, I'am Seven ✔️
 
-<p align="center" color="#36BCF7FF"><img src="http://readme-typing-svg.herokuapp.com?font=&size=21&pause=1000&width=435&lines=My+fullname+is+Ho+Chi+Nhan;In+future+i+want+to+do+fullstack+dev"></p>
+<p align="center" color="#36BCF7FF"><img src="http://readme-typing-svg.herokuapp.com?font=&size=21&pause=1000&width=435&lines=My+fullname+is+Ho+Chi+Nhan;In+future+i+want+to+do+frontend+dev"></p>
 
 ### <img src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
